@@ -119,6 +119,11 @@ It is a very critical application and video traffic has to be priotirize <br>
 
 In SDN an application can use Northbound APIs to send the instruction to controller<br>
 
+and controller can update those switches accordingly <br>
+
+
+
+
 
 
 
