@@ -57,6 +57,11 @@ In Software defined network(SDN) it separates control plane from data plane <br>
 
 the SDN switches just perfomed the data plane function of forwarding packets to next device  <br>
 
+so it can run on less expensive hardware <br>
+
+
+
+
 
 
 
