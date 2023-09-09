@@ -154,6 +154,8 @@ by compromosing the application the bad guys may get acces to your entire networ
 
 because application can instruct the controller can upadte the network infrastructure <br>
 
+so adequate security should be implemented on applications and physical network infrastructure <br>
+
 
 
 
