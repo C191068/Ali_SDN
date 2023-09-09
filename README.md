@@ -9,7 +9,9 @@ traditional network interconnects multiple networks using routers <br>
 imagine computer A wants to sent data to computer B
 
 the roter device or router primarily does two functions <br>
+ on a very high level <br>
 
+ 
 
 
 
