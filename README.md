@@ -65,6 +65,9 @@ the control plane function is managed by contoller <br>
 
 the priamary function of this controller is to identify the route <br>
 
+and update the the routing table in the SDN switches <br>
+
+
 
 
 
