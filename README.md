@@ -84,6 +84,8 @@ and can update the flow table entries in each of thses SDN switches <br>
 these APIs are called southbound APIs <br>
 
 
+so the controller use these southbound APIs to update thse SDN switches <br>
+
 
 
 
