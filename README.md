@@ -123,6 +123,9 @@ and controller can update those switches accordingly <br>
 
 so that the application can prioterize video streaming and other traffics like VoIP <br>
 
+![s14](https://github.com/C191068/Ali_SDN/assets/89090776/fc711242-3764-42be-88e3-23ac216b8ee5)
+
+the controller provides an abstraction layer for the application <br>
 
 
 
