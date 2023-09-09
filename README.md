@@ -30,6 +30,11 @@ the second function is to forward actual data packets to next device <br>
 based on the address of the destination machine <br>
 
 
+![s7](https://github.com/C191068/Ali_SDN/assets/89090776/936bd139-fb6f-4d33-9eb4-1eacda171045)
+
+this function is performed by data plane <br>
+
+
 
 
 
