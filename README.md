@@ -105,6 +105,37 @@ so the application can provide dynamically instructions to controller <br>
 and controller can update the SDN switches <br>
 
 
+So now a developer can write applications that can configure <br>
+
+network in real time based on business requirement <br>
+
+
+![s13](https://github.com/C191068/Ali_SDN/assets/89090776/46a5fbb9-0638-4e8c-ba88-759eeb2b8751)
+
+imagine an application that uses video streaming <br>
+
+It is a very critical application and video traffic has to be priotirize <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
