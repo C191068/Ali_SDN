@@ -81,6 +81,8 @@ the controller can talk to thse SDN switches through OpenFlow APIs <br>
 and can update the flow table entries in each of thses SDN switches <br>
 
 
+these APIs are called southbound APIs <br>
+
 
 
 
