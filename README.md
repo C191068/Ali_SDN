@@ -87,6 +87,10 @@ these APIs are called southbound APIs <br>
 so the controller use these southbound APIs to update thse SDN switches <br>
 
 
+
+![s12](https://github.com/C191068/Ali_SDN/assets/89090776/51dfd162-341d-4d24-a494-d19434e690c5)
+
+
 the controller also provide APIs for application to communicate <br>
 
 
