@@ -142,6 +142,18 @@ Developers can run the application on any virtual machine and provide intruction
 to controllers <br>
 
 
+What if the operating system on which the application runs get compromised  <br>
+and a bad actor gets acces to the application <br>
+
+by compromosing the application the bad guys may get acces to your entire network <br>
+
+
+![s15](https://github.com/C191068/Ali_SDN/assets/89090776/f11a2091-a3b9-479d-903e-d7ff57854b76)
+
+
+
+because application can instruct the controller can upadte the network infrastructure <br>
+
 
 
 
