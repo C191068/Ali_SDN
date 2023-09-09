@@ -23,6 +23,13 @@ which will help to learn network topology and update the routing table <br>
 this function is performed by control plane <br>
 
 
+![s6](https://github.com/C191068/Ali_SDN/assets/89090776/baef3762-8724-4b80-9c38-e737dc6c568f)
+
+the second function is to forward actual data packets to next device <br>
+
+
+
+
 
 Most of these routers run protocols like OSPF <br>
 
