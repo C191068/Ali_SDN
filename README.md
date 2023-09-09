@@ -49,6 +49,8 @@ so a network administrators will have to learn technology developed by different
 each devices in atraditional network <br>
 
 
+In Software defined network(SDN) it separates control plane from data plane <br>
+
 
 
 
