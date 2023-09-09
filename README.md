@@ -36,6 +36,14 @@ this function is performed by data plane <br>
 
 traditional router have both data plane and control plane function running at the same hardware <br>
 
+mostly they are proprietary hardware 
+
+Proprietary hardware refers to computer or electronic hardware that is designed, manufactured, and controlled by a specific company or organization. It means that the hardware is not made by multiple manufacturers or available for use by anyone; instead, it is exclusive to the company that created it.<br>
+
+Imagine you have a special toy that only works with batteries made by the same toy company, and you can't use regular batteries from the store. That toy's batteries are like proprietary hardware – they are unique and can only be used with that specific toy.<br>
+
+Similarly, proprietary hardware can only work with specific software or accessories provided by the same company. This exclusivity can limit your options and potentially make it more expensive to maintain or upgrade your hardware because you're tied to that one company's ecosystem.<br>
+
 
 
 
