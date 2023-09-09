@@ -129,8 +129,21 @@ the controller provides an abstraction layer for the application <br>
 
 the application need not know the complexity of the actual network infrastructure <br>
 
-
 it can just provide intstruction the controller <br>
+
+and controller can take care of updating actual physical ntework infrastucture <br>
+
+These open controllers can run on any virtual machine <br>
+
+so there is no requirement of purchasing a proprietary hardware for running a controller <br>
+
+Developers can run the application on any virtual machine and provide intructions <br>
+
+to controllers <br>
+
+
+
+
 
 
 
