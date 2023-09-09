@@ -59,6 +59,10 @@ the SDN switches just perfomed the data plane function of forwarding packets to 
 
 so it can run on less expensive hardware <br>
 
+![s9](https://github.com/C191068/Ali_SDN/assets/89090776/a42721c8-6de0-4623-97fb-32c14d313d67)
+
+the control plane function is managed by contoller <br>
+
 
 
 
