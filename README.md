@@ -15,6 +15,8 @@ the roter device or router primarily does two functions <br>
 
  the first one is to decide the best path to take data from computer A to computer B <br>
 
+which will help to learn network topology and update the routing table <br>
+
 
 
 Most of these routers run protocols like OSPF <br>
