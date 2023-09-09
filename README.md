@@ -121,6 +121,8 @@ In SDN an application can use Northbound APIs to send the instruction to control
 
 and controller can update those switches accordingly <br>
 
+so that the application can prioterize video streaming and other traffics like VoIP <br>
+
 
 
 
