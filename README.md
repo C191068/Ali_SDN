@@ -117,7 +117,7 @@ imagine an application that uses video streaming <br>
 It is a very critical application and video traffic has to be priotirize <br>
 
 
-In SDN an application can use Northbound APIs <br>
+In SDN an application can use Northbound APIs to send the instruction to controller<br>
 
 
 
