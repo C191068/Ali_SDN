@@ -87,6 +87,8 @@ these APIs are called southbound APIs <br>
 so the controller use these southbound APIs to update thse SDN switches <br>
 
 
+the controller also provide APIs for application to communicate <br>
+
 
 
 
