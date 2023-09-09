@@ -27,6 +27,10 @@ this function is performed by control plane <br>
 
 the second function is to forward actual data packets to next device <br>
 
+based on the address of the destination machine <br>
+
+
+
 
 
 
