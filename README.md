@@ -34,6 +34,9 @@ based on the address of the destination machine <br>
 
 this function is performed by data plane <br>
 
+traditional router have both data plane and control plane function running at the same hardware <br>
+
+
 
 
 
