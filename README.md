@@ -96,6 +96,8 @@ the controller also provide APIs for application to communicate <br>
 
 
 
+these APIs are called Northbound API <br>
+
 
 
 
