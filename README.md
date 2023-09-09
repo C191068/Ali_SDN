@@ -70,6 +70,9 @@ and update the the flow table in the SDN switches <br>
 the controller talk to the switches using a protocol called OpenFlow <br>
 
 
+![s10](https://github.com/C191068/Ali_SDN/assets/89090776/802ad479-60a1-4845-9f62-67d6f9c9e927)
+
+the controller can talk to thse SDN switches through OpenFlow APIs <br>
 
 
 
