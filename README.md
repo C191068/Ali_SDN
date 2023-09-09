@@ -52,6 +52,31 @@ each devices in atraditional network <br>
 In Software defined network(SDN) it separates control plane from data plane <br>
 
 
+![s8](https://github.com/C191068/Ali_SDN/assets/89090776/7c3b543e-6b22-40f6-ab2a-ad5b0c650006)
+
+
+the SDN switches just perfomed the data plane function <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
