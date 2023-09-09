@@ -67,6 +67,10 @@ the priamary function of this controller is to identify the route <br>
 
 and update the the flow table in the SDN switches <br>
 
+the controller talk to the switches using a protocol called OpenFlow <br>
+
+
+
 
 
 
