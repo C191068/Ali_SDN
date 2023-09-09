@@ -45,7 +45,9 @@ Imagine you have a special toy that only works with batteries made by the same t
 Similarly, proprietary hardware can only work with specific software or accessories provided by the same company. This exclusivity can limit your options and potentially make it more expensive to maintain or upgrade your hardware because you're tied to that one company's ecosystem.<br>
 
 
-so a network administrators will have to learn technology developed by different vendors <br>
+so a network administrators will have to learn technology developed by different vendors and configure  <br>
+each devices in atraditional network <br>
+
 
 
 
