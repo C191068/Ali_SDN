@@ -63,6 +63,8 @@ so it can run on less expensive hardware <br>
 
 the control plane function is managed by contoller <br>
 
+the priamary function of this controller is to identify the route <br>
+
 
 
 
