@@ -11,6 +11,25 @@ imagine computer A wants to sent data to computer B
 the roter device or router primarily does two functions <br>
  on a very high level <br>
 
+ ![s4](https://github.com/C191068/Ali_SDN/assets/89090776/f54a33bd-b6d5-40a6-9a6f-213b0661b446)
+
+ the first one is to decide the best path to take data from computer A to computer B <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
  
 
 
