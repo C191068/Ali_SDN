@@ -127,6 +127,10 @@ so that the application can prioterize video streaming and other traffics like V
 
 the controller provides an abstraction layer for the application <br>
 
+the application need not know the complexity of the actual network infrastructure <br>
+
+
+it can just provide intstruction the controller <br>
 
 
 
