@@ -17,6 +17,11 @@ the roter device or router primarily does two functions <br>
 
 which will help to learn network topology and update the routing table <br>
 
+![s5](https://github.com/C191068/Ali_SDN/assets/89090776/904ed5ea-75cd-4486-808c-22f76e5e048d)
+
+
+this function is performed by control plane <br>
+
 
 
 Most of these routers run protocols like OSPF <br>
