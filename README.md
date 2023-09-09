@@ -17,6 +17,11 @@ the roter device or router primarily does two functions <br>
 
 
 
+Most of these routers run protocols like OSPF <br>
+
+
+
+
 
 
 
