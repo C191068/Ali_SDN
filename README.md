@@ -100,6 +100,10 @@ these APIs are called Northbound API <br>
 
 
 
+so the application can provide dynamically instructions to controller <br>
+
+and controller can update the SDN switches <br>
+
 
 
 
