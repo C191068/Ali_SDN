@@ -156,7 +156,7 @@ because application can instruct the controller can upadte the network infrastru
 
 so adequate security should be implemented on applications and physical network infrastructure <br>
 
-
+OpenFlow is standardized communication protocol used in the SDN environment to pass messages between the controller and the data flow devices over the controller's Southbound interface. From: Journal of Network and Computer Applications, 2022
 
 
 
